@@ -1,5 +1,5 @@
 -  Hi, I’m chaithanya erugu
--  I’m interested in cyber security
+-  AWS Certified Cloud Practitioner
 -  software development 
 
 
